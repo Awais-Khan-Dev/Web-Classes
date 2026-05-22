@@ -1,0 +1,21 @@
+{
+  "name": "first-backend-project",
+  "version": "1.0.0",
+  "description": "this is our first backend app",
+  "main": "index4.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "app",
+    "first",
+    "app"
+  ],
+  "author": "Saifati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
